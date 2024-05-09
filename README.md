@@ -1,6 +1,7 @@
 <h2 align="left">Hi! My name is Nikhil Joshi and I'm a final year engineering student interested in Machine Learning.</h2>
-
-###
+<p align="left">
+<a href="https://www.leetcode.com/nudnick007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nudnick007" height="30" width="40" /></a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nudnick007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
