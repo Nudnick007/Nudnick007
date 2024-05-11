@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Nikhil Joshi and I'm a final year engineering student interested in Machine Learning.</h2>
+<h2 align="left">Hi! My name is Nikhil Joshi and I'm a final year engineering student interested in Machine Learning and Web Development.</h2>
 
 <p align="center"> <a href="https://www.leetcode.com/nudnick007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nudnick007" height="30" width="40" /></a> </p>
 
