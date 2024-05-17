@@ -1,5 +1,7 @@
 <h2 align="left">Hi! My name is Nikhil Joshi and I'm a final year engineering student interested in Deep Learning and Web Development.</h2>
 
+➤ I love the python programming language in general<br>➤ Prioritize clean and efficient code for maximum readability<br>➤ Fascinated by Deep Learning models and AI<br>➤ Competitive Pokemon player when nobody is watching
+
 <p align="center"> <a href="https://www.leetcode.com/nudnick007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nudnick007" height="30" width="40" /></a> </p>
 
 ###
@@ -110,3 +112,5 @@
 </div>
 
 ###
+
+[![](https://visitcount.itsvg.in/api?id=Nudnick007&icon=0&color=0)](https://visitcount.itsvg.in)
