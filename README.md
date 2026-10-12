@@ -1,10 +1,22 @@
-<h2 align="left">Hi! My name is Nikhil Joshi and I'm interested in Deep Learning and Web Development</h2>
+## Hi, I'm Nikhil Joshi 👋
 
-➤ I love the python programming language in general 📌<br>➤ Prioritize clean and efficient code for maximum readability 🤝<br>➤ Fascinated by Deep Learning models and AI <br>➤ Competitive Pokemon player when nobody is watching <br>➤ Final year student at National Institute of Technology Calicut 🎓
+Software Developer at IBM, building production-oriented Agentic AI systems.
 
+- 🤖 Developing agentic AI capabilities for enterprise analytics and reporting
+- 🧩 Working with LLMs, tool and workflow orchestration
+- 🐍 Building AI-powered applications and backend systems with Python
+- 💻 Passionate about software engineering, clean code, and scalable system design
+- 🎮 Competitive Pokémon player when nobody is watching
+- 🎓 NIT Calicut 2025 alumnus
 
-###
+---
 
-<br clear="both">
+### 🛠️ Tech Stack
 
-<img align="right" height="200" src="https://i.imgflip.com/3pclb1.jpg"  />
+- **Languages:** Python
+
+---
+
+<div align="right">
+  <img height="150" src="https://i.imgflip.com/3pclb1.jpg" alt="Pokémon GIF" />
+</div>
